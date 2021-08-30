@@ -6,7 +6,7 @@ Strategi algoritma decrease and conquer untuk algoritma topological sorting diim
 2. Mencari mata kuliah (node) yang syaratnya sudah terpenuhi (tidak ada sisi yang berakhir di node itu).
 3. Simpan node-node itu sebagai mata kuliah yang dapat diambil untuk semester pertama lalu hapus node itu dari DAG.
 4. Ulang langkah 2 dan 3 dengan sisa DAG sampai tidak ada node lagi di DAG.
-
+Program ini dibuat untuk tugas kecil 2 mata kuliah Strategi Algoritma
 #### Requirement
 Python 3.8 (dicoba di versi ini, pada versi python lain mungkin berbeda hasilnya)
 
