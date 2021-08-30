@@ -1,4 +1,4 @@
-# TucilStima2_13519096
+# Topological Sorter
 
 #### Deskripsi singkat
 Strategi algoritma decrease and conquer untuk algoritma topological sorting diimplementasikan dengan:
@@ -15,11 +15,11 @@ Modul os dan pathlib dari Python
 Soal berupa file .txt
 
 #### Cara menggunakan
-Run program 13519096.py yang berada di folder src.
+Run program sorter.py yang berada di folder src.
 
 Run dapat dilakukan dengan command:
 
-python Tucil2_13519096/src/13519096.py, command dapat diubah berdasarkan directory penjalanan program
+python src/sorter.py, command dapat diubah berdasarkan directory penjalanan program
 
 Untuk mengubah input soal, ubah bagian namafile di file 13519096.py dengan nama file .txt yang diinginkan
 
